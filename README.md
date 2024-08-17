@@ -8,4 +8,5 @@ Access via: https://summarizer-app-theta.vercel.app/
 ## Tech Stack Used
 **API platform:** Postman <br>
 **Back end:** Node.js, Express, Hugging Face Inference API<br>
-**Front end:** HTML, CSS, JavaScript<br>
+**Front end:** HTML, CSS, JavaScript<br>  
+## Add a :star: to repository and support!
