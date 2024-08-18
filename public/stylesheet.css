@@ -4,10 +4,15 @@ img {
 }
 
 body {
+  margin: 0;
+  padding: 0;
+  display: grid;
   font-family: 'Roboto', sans-serif;
   background-color: #605dba;
-  padding: 20px;
-  text-align: center
+  text-align: center;
+}
+.pre-content{
+  padding: 15px;
 }
 
 h1 {
